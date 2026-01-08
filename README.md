@@ -100,12 +100,32 @@ Water Quality, pH Level, TDS, Turbidity, Water Safety, Health Monitoring, WHO St
 
 ---
 
-### How to Use This Repository
+## 📁 Repository Contents
 
-1. **View the Complete Report**: Open `PROJECT_REPORT.md` to read the full project documentation
-2. **Understand the System**: Review the architecture, design diagrams, and implementation details
-3. **Learn About Water Quality**: Explore the appendices for detailed parameter information
-4. **Implementation Reference**: Use the code snippets and algorithms for implementation guidance
+| File | Description | Size |
+|------|-------------|------|
+| [PROJECT_REPORT.md](PROJECT_REPORT.md) | Complete academic project report (1,562 lines) | 57KB |
+| [README.md](README.md) | This file - project overview and navigation | 5KB |
+| [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) | Executive summary and quality metrics | 6KB |
+| [INSTRUCTIONS.md](INSTRUCTIONS.md) | Guide for customizing the report | 4KB |
+
+## 🚀 Quick Start
+
+### For Students:
+1. **Read [INSTRUCTIONS.md](INSTRUCTIONS.md)** - Learn how to customize for your submission
+2. **Open [PROJECT_REPORT.md](PROJECT_REPORT.md)** - View the complete report
+3. **Replace placeholders** - Update with your personal/academic information
+4. **Review [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Understand what's included
+
+### For Reviewers:
+1. **Start with [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Get a quick overview
+2. **Browse [PROJECT_REPORT.md](PROJECT_REPORT.md)** - Read the detailed report
+3. **Check quality metrics** - All sections are comprehensive and complete
+
+### For Developers:
+1. **Review Chapter 5** in PROJECT_REPORT.md - Implementation details
+2. **Study code examples** - Python/Flask code snippets provided
+3. **Check Appendix C** - System installation guide
 
 ### Contact
 
